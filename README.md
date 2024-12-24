@@ -1,10 +1,17 @@
 
-pkg install git
+## Instalasi
+1. Clone repositori:
+   ```bash
+   https://github.com/limit9172/Tracer123.git
 
-git clone https://github.com/limit9172/Tracer123.git
 
-cd Tracer123
 
-bash tracer.sh
+
+
+
+
+
+
+
 
 
